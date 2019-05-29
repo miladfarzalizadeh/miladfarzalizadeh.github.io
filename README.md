@@ -1,6 +1,6 @@
 ## Welcome to my GitHub Pages
 
-You can view the linkdin profile [editor on GitHub](https://www.linkedin.com/in/milad-farzalizadeh/) 
+You can view the linkdin profile [Linkedin](https://www.linkedin.com/in/milad-farzalizadeh/) 
 
 
 
