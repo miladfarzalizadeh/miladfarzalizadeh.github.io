@@ -7,9 +7,9 @@ You can view the linkdin profile [Linkedin](https://www.linkedin.com/in/milad-fa
 
 ```markdown
 
-machine learning 1
-deep learning 2
-computer vision 3
+machine learning 
+deep learning 
+computer vision 
 
 
 
