@@ -7,9 +7,9 @@ You can view the linkdin profile [editor on GitHub](https://www.linkedin.com/in/
 
 ```markdown
 
-# machine learning 1
-## deep learning 2
-### computer vision 3
+machine learning 1
+deep learning 2
+computer vision 3
 
 
 
